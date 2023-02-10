@@ -29,13 +29,6 @@ export default function PostCardMain({post}) {
         <Button 
           variant='contained' 
           size="small"
-          sx={{
-            backgroundColor: '#3f51b5',
-            ml: 2,
-            "&:hover": {
-              backgroundColor: '#303f9f'
-            }
-          }}
         >
             Learn More
         </Button>
